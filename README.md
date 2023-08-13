@@ -1,0 +1,1 @@
+This is the odin recipe project which allowss me to apply html for practice
